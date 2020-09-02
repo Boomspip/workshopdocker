@@ -8,7 +8,8 @@ def info():
     return jsonify({
         'status':'sucess',
         "name":"boom",
-        'data':'1'
+        'data':'1',
+        'data2':'1',
         })
 
 @app.route('/api/v1/getdata',methods=["GET"])
