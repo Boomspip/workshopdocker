@@ -1,0 +1,6 @@
+.vscode
+Dockerfile
+Makefile
+.dockerignore
+
+
